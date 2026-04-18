@@ -1,6 +1,6 @@
 ﻿# Resources
 
-The following papers are required for Week 1. Obtain them through your institution's journal access.
+The following papers are a good starting place moving forward.
 
 ## Anchor papers
 
