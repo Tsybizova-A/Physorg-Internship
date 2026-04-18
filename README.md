@@ -61,12 +61,10 @@ Each week has a concrete output that becomes one chapter of the final report.
 ```
 /
 ├── README.md                  ← this file
-├── SUPERVISOR_NOTES.md        ← internal planning document (not for students)
-├── STATUS.md                  ← current progress tracker
 ├── week1_literature/          ← instructions, templates, exercises
 ├── week2_ms_acquisition/      ← instructions, example data
 ├── week3_data_analysis/       ← instructions, analysis scripts
-├── week4_computation/         ← instructions, autodE/xTB setup (reuses icc-2023 session 2)
+├── week4_computation/         ← instructions, autodE/xTB setup
 └── week5_writing/             ← report template, presentation guidelines
 ```
 
