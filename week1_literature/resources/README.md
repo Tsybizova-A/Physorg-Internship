@@ -9,6 +9,6 @@ The following papers are a good starting place moving forward.
 -  Fabre, N. et al. Determination of flavone, flavonol, and flavanone aglycones by negative ion LC-ESI-MS/MS. *J. Am. Soc. Mass Spectrom.* 2001, 12, 707–715.
 ## Background reading
 
-- De Vijlder, T. et al. A tutorial in small molecule identification via electrospray ionization mass spectrometry. *Mass Spectrom. Rev.* 2018, 37, 607–629. https://doi.org/10.1002/mas.21548
+- De Vijlder, T. et al. A tutorial in small molecule identification via electrospray ionization mass spectrometry. *Mass Spectrom. Rev.* 2018, 37, 607–629. [https://doi.org/10.1002/mas.21548](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/mas.21551)
 
 
