@@ -43,8 +43,8 @@ Each week has a concrete output that becomes one chapter of the final report.
 |------|-------|------------------------|
 | 1 | Literature search and scientific writing | Background |
 | 2 | MS/MS measurements and breakdown curves | Experimental |
-| 3 | Data analysis and E₀ extraction | Results & Analysis |
-| 4 | Quantum chemical calculations (autodE/xTB) | Computational Results |
+| 3 | Data analysis | Results & Analysis |
+| 4 | Quantum chemical calculations (xTB) | Computational Results |
 | 5 | Final report assembly and oral presentation | Complete report + talk |
 
 ---
@@ -64,7 +64,7 @@ Each week has a concrete output that becomes one chapter of the final report.
 ├── week1_literature/          ← instructions, templates, exercises
 ├── week2_ms_acquisition/      ← instructions, example data
 ├── week3_data_analysis/       ← instructions, analysis scripts
-├── week4_computation/         ← instructions, autodE/xTB setup
+├── week4_computation/         ← instructions, xTB setup
 └── week5_writing/             ← report template, presentation guidelines
 ```
 
